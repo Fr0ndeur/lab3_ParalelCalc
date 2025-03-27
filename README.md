@@ -44,4 +44,4 @@ This project is built using Visual Studio. To run the project:
 
 1. **Clone the Repository:**
    ```bash
-   https://github.com/Fr0ndeur/lab3_ParalelCalc.git
+   git clone https://github.com/Fr0ndeur/lab3_ParalelCalc.git
