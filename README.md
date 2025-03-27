@@ -44,4 +44,4 @@ This project is built using Visual Studio. To run the project:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/threadpool-variant21.git
+   https://github.com/Fr0ndeur/lab3_ParalelCalc.git
